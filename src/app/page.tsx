@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
@@ -165,8 +165,7 @@ export default function Home() {
               role: "Golden Retriever Owner",
               company: "Dog Lover",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219111374-zvgu9bk3.jpg",
-              text: "My Golden Retriever has been the most loyal and loving companion I could ask for. The bond we share is incredible and brings so much joy to my life every day."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219111374-zvgu9bk3.jpg"
             },
             {
               id: "2",
@@ -174,8 +173,7 @@ export default function Home() {
               role: "Border Collie Owner",
               company: "Active Family",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219112107-pcahks3g.jpg",
-              text: "Our Border Collie is incredibly intelligent and has become such an important part of our family. The energy and love they bring is unmatched."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219112107-pcahks3g.jpg"
             },
             {
               id: "3",
@@ -183,8 +181,7 @@ export default function Home() {
               role: "Bernese Owner",
               company: "Dog Enthusiast",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219112934-l0fmunuu.jpg",
-              text: "My Bernese Mountain Dog is the gentlest giant with such a calm and loving personality. They make the perfect family companion and bring peace to our home."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219112934-l0fmunuu.jpg"
             },
             {
               id: "4",
@@ -192,8 +189,7 @@ export default function Home() {
               role: "Large Breed Advocate",
               company: "Pet Professional",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219113681-afifjml6.jpg",
-              text: "Working with large breed dogs professionally has shown me how amazing these companions can be. They form deep bonds and are incredibly rewarding to care for."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219113681-afifjml6.jpg"
             },
             {
               id: "5",
@@ -201,8 +197,7 @@ export default function Home() {
               role: "First-time Big Dog Owner",
               company: "Happy Family",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219114696-r1wsnzx8.jpg",
-              text: "Getting my first big dog was the best decision I ever made. They've taught me so much about responsibility and unconditional love."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219114696-r1wsnzx8.jpg"
             },
             {
               id: "6",
@@ -210,8 +205,7 @@ export default function Home() {
               role: "Dog Trainer",
               company: "Professional Trainer",
               rating: 5,
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219115393-isyo3211.jpg",
-              text: "Training large breed dogs is incredibly fulfilling. Their intelligence and eagerness to please makes them wonderful companions for the right owners."
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_32T51L3BHE8qqE8rXXWBwMZaYtk/uploaded-1763219115393-isyo3211.jpg"
             }
           ]}
         />
